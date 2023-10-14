@@ -2,7 +2,7 @@ Porrent is a BitTorrent client written in Python.
 
 To torrent, first download a .torrent file. For example,
 
-we can download Debian CD images with BitTorrent.
+we can download Debian CD images with BitTorrent: https://www.debian.org/CD/torrent-cd/
 
 Example command:
 
